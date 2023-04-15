@@ -20,12 +20,14 @@ practice?
 
 ## Goals
 
-- Fewer people are suprised when your project stops working.
+- Fewer people are surprised when your project stops working.
 - You have the choice of spreading the word about *why* you are
   stopping your project, so that you might influence others might make similar
   choices.
 - You have the choice of making it easier or more difficult for someone else
   to fork the code and take over maintenance.
+- You have the choice of trying to remove your name from future forks of the
+  project.  This might not be possible in practice.
 - All decisions are explicit and documented.
 - There is recourse for the other parties in the discussion to change your
   mind.
@@ -39,7 +41,14 @@ practice?
 - You have some recourse to objections, even if it's just "I followed the
   industry best practice".  
 
-## Dislclaimer
+## Non-goals
+
+- Making it impossible for someone to fork from a previous version.  Assume
+  that your project has been published with a permissive license, so any copy
+  of the code anywhere is a legitimate starting point for someone else.
+- Speed.  Doing this carefully is more important than hitting a news cycle.
+
+## Disclaimer
 
 There are no lawyers involved in this project yet.  Laws vary widely around
 the world.  Nothing in this project is legal advice or should be construed
@@ -64,7 +73,7 @@ that's the first project the original author was interested in shutting down.
 There will likely need to be multiple sub-lists for different kinds of
 projects as people want to work on those.
 
-Decision making will be by fiat after discssion until we get to the point
+Decision making will be by fiat after discussion until we get to the point
 where we need something else.
 
 ## Reading List
@@ -74,6 +83,8 @@ These are things that you'll want to have read before wading in:
 - [npm deprecation guidelines](https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions)
 - [npm unpublish policy](https://docs.npmjs.com/policies/unpublish)
 - [node's util.deprecate](https://nodejs.org/dist/latest-v19.x/docs/api/util.html#utildeprecatefn-msg-code)
+- [Remember When We Broke the Internet?](https://www.youtube.com/watch?v=uvdzTD6ZAlY) ([slides](https://docs.google.com/presentation/d/1JWzE92jykf7PwMFFCwzr4ok8A2bwKv8yHXvZ2uGy0bs/edit#slide=id.gf71d39d4d6_0_0))
+- [Corporate open source shutdowns](https://github.com/todogroup/guides/blob/master/shutting-down-an-open-source-project.md#killing-a-project-outright)
 
 ## License
 
