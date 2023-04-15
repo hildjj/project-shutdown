@@ -56,8 +56,8 @@ Examples of previous times this has gone wrong:
 
 ## Approach
 
-We will iterate on a [checklist](shutdown-steps.md).  
-See the [contribution guidelines](CONTRIBUTING.md).  
+We will iterate on a [checklist](shutdown-steps.md).  See the
+[contribution guidelines](CONTRIBUTING.md).  
 
 The first thing being considered is node packages published in NPM, because
 that's the first project the original author was interested in shutting down.
