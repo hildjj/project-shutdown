@@ -12,6 +12,8 @@ scenarios:
   used for, and you have a sudden flash of moral insight.
 - Someone makes a compelling legal case against you, and your lawyer says it's
   time to take down your code.
+- There's a better package out there now since you wrote it, and in the spirit of "less, better, software"
+  you want to encourage people to use the better package and contribute fixes there, rather than using yours which has now numerous bugs and security issues, runs on an old framework etc etc.
 - (TODO): more examples here, please.  I'd like people who are directed here
   to see a use case that they identify with.
 
