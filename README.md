@@ -12,9 +12,14 @@ scenarios:
   used for, and you have a sudden flash of moral insight.
 - Someone makes a compelling legal case against you, and your lawyer says it's
   time to take down your code.
-- You wish to retire from maintaining this code for personal or professional
+- There's a better package out there now since you wrote it, and in
+  the spirit of "less, better, software"
+  you want to encourage people to use the better package and contribute fixes there, rather than using yours which has now numerous bugs and security issues, runs on an old framework etc etc.
+- You wish to retire from maintaining this code for personal or
+  professional
   reasons.
-- (TODO): more examples here, please.  I'd like people who are directed here
+- (TODO): more examples here, please.  I'd like people who are
+  directed here
   to see a use case that they identify with.
 
 How do you take down your project correctly?  What is the industry best
@@ -41,7 +46,7 @@ practice?
   Internet than you intended.  Nobody suspends any of your accounts you still
   want.
 - You have some recourse to objections, even if it's just "I followed the
-  industry best practice".  
+  industry best practice".
 
 ## Non-goals
 
@@ -68,7 +73,7 @@ Examples of previous times this has gone wrong:
 ## Approach
 
 We will iterate on a [checklist](shutdown-steps.md).  See the
-[contribution guidelines](CONTRIBUTING.md).  
+[contribution guidelines](CONTRIBUTING.md).
 
 The first thing being considered is node packages published in NPM, because
 that's the first project the original author was interested in shutting down.
