@@ -39,7 +39,9 @@ practice?
   Internet than you intended.  Nobody suspends any of your accounts you still
   want.
 - You have some recourse to objections, even if it's just "I followed the
-  industry best practice".  
+  industry best practice".
+- You will set aside any of these if they come at the cost of supporting
+  or endorsing something monstrous. 
 
 ## Non-goals
 
