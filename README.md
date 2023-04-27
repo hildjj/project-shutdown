@@ -12,9 +12,14 @@ scenarios:
   used for, and you have a sudden flash of moral insight.
 - Someone makes a compelling legal case against you, and your lawyer says it's
   time to take down your code.
-- There's a better package out there now since you wrote it, and in the spirit of "less, better, software"
+- There's a better package out there now since you wrote it, and in
+  the spirit of "less, better, software"
   you want to encourage people to use the better package and contribute fixes there, rather than using yours which has now numerous bugs and security issues, runs on an old framework etc etc.
-- (TODO): more examples here, please.  I'd like people who are directed here
+- You wish to retire from maintaining this code for personal or
+  professional
+  reasons.
+- (TODO): more examples here, please.  I'd like people who are
+  directed here
   to see a use case that they identify with.
 
 How do you take down your project correctly?  What is the industry best
@@ -41,7 +46,7 @@ practice?
   Internet than you intended.  Nobody suspends any of your accounts you still
   want.
 - You have some recourse to objections, even if it's just "I followed the
-  industry best practice".  
+  industry best practice".
 
 ## Non-goals
 
@@ -68,7 +73,7 @@ Examples of previous times this has gone wrong:
 ## Approach
 
 We will iterate on a [checklist](shutdown-steps.md).  See the
-[contribution guidelines](CONTRIBUTING.md).  
+[contribution guidelines](CONTRIBUTING.md).
 
 The first thing being considered is node packages published in NPM, because
 that's the first project the original author was interested in shutting down.
@@ -87,6 +92,13 @@ These are things that you'll want to have read before wading in:
 - [node's util.deprecate](https://nodejs.org/dist/latest-v19.x/docs/api/util.html#utildeprecatefn-msg-code)
 - [Remember When We Broke the Internet?](https://www.youtube.com/watch?v=uvdzTD6ZAlY) ([slides](https://docs.google.com/presentation/d/1JWzE92jykf7PwMFFCwzr4ok8A2bwKv8yHXvZ2uGy0bs/edit#slide=id.gf71d39d4d6_0_0))
 - [Corporate open source shutdowns](https://github.com/todogroup/guides/blob/master/shutting-down-an-open-source-project.md#killing-a-project-outright)
+
+## Other Languages/projects
+
+### Rust
+
+- [Rust's `#[deprecated] attribute](https://doc.rust-lang.org/reference/attributes/diagnostics.html#the-deprecated-attribute)
+- [Rustsec Advisory database](https://github.com/RustSec/advisory-db) In the Advisory Format note `informational = "unmaintained"`
 
 ## License
 
