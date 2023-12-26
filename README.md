@@ -12,15 +12,14 @@ scenarios:
   used for, and you have a sudden flash of moral insight.
 - Someone makes a compelling legal case against you, and your lawyer says it's
   time to take down your code.
-- There's a better package out there now since you wrote it, and in
-  the spirit of "less, better, software"
-  you want to encourage people to use the better package and contribute fixes there, rather than using yours which has now numerous bugs and security issues, runs on an old framework etc etc.
-- You wish to retire from maintaining this code for personal or
-  professional
+- There's a better package out there now since you wrote it, and in the spirit
+  of "less, better, software" you want to encourage people to use the better
+  package and contribute fixes there, rather than using yours which has now
+  numerous bugs and security issues, runs on an old framework, etc etc.
+- You wish to retire from maintaining this code for personal or professional
   reasons.
 - (TODO): more examples here, please.  I'd like people who are
-  directed here
-  to see a use case that they identify with.
+  directed here to see a use case that they identify with.
 
 How do you take down your project correctly?  What is the industry best
 practice?
@@ -28,7 +27,7 @@ practice?
 ## Goals
 
 - Fewer people are surprised when your project stops working.
-- You have the choice of spreading the word about *why* you are
+- You can be deliberate in choosing how to communicate *why* you are
   stopping your project, so that you might influence others might make similar
   choices.
 - You have the choice of making it easier or more difficult for someone else
@@ -41,12 +40,16 @@ practice?
 - You have displayed systematic empathy for all of the participants in your
   ecosystem.  You've thought through how this is going to affect them and made
   intentional decisions about them.
+- There is recourse for vulnerable people and projects they depend on within
+  that ecosystem.
 - You have a draft communications plan for how to notify everyone you can.
 - You are not seen as "going rogue" and taking down a larger chunk of the
   Internet than you intended.  Nobody suspends any of your accounts you still
   want.
 - You have some recourse to objections, even if it's just "I followed the
   industry best practice".
+- You can disregard any of this advice if it means endorsing or supporting
+  something monstrous.
 
 ## Non-goals
 
